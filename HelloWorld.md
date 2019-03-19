@@ -1,7 +1,2 @@
 ## This is a markdown file
-* comment 1
-* comment 2
-* newline 3
-* newline 4
-* newline 4a
-* newline 4b
+
